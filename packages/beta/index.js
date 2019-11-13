@@ -1,1 +1,1 @@
-module.exports = 'betahotfix';
+module.exports = 'betahotfix-generatefeat';
