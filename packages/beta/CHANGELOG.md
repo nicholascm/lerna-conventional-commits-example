@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0-hotfix.2](https://github.com/nicholascm/lerna-conventional-commits-example/compare/@my-scope/beta@1.1.0-hotfix.1...@my-scope/beta@1.1.0-hotfix.2) (2019-11-18)
+
+
+### Features
+
+* test commit ([dbbd480](https://github.com/nicholascm/lerna-conventional-commits-example/commit/dbbd480))
+
+
+
+
+
 # [1.1.0-hotfix.1](https://github.com/nicholascm/lerna-conventional-commits-example/compare/@my-scope/beta@1.0.2...@my-scope/beta@1.1.0-hotfix.1) (2019-11-13)
 
 

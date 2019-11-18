@@ -1,6 +1,6 @@
 {
   "name": "@my-scope/beta",
-  "version": "1.1.0-hotfix.1",
+  "version": "1.1.0-hotfix.2",
   "publishConfig": {
     "registry": "http://localhost:4873"
   },
