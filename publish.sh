@@ -1,3 +1,3 @@
-TEST=$(lerna publish);
+TEST=$(yarn run lerna publish);
 echo $TEST
 
